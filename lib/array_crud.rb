@@ -7,7 +7,7 @@ def create_an_array
 end
 
 def add_element_to_end_of_array(array, element)
-  array = [a, b, c, d]
+  a = [a, b, c, d]
   a.push(e, f, g)
   a << 'k'
 end
